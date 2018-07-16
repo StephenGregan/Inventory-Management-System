@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\InventoryCommand.cs" />
+    <Compile Include="Commands\ManagementCommand.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="InventorySystem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

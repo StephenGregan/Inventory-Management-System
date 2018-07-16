@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace InventoryManagementSystem
 {
-    class Program
+    class Inventory
     {
-        static void Main(string[] args)
-        {
-            new InventorySystem().Run();
-            Console.ReadLine();
-        }
     }
 }
