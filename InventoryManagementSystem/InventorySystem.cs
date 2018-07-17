@@ -17,7 +17,6 @@ namespace InventoryManagementSystem
         {
             inventoryCmd = new InventoryCommand();
             managementCmd = new ManagementCommand();
-
         }
 
         private void PrintWelcome()
